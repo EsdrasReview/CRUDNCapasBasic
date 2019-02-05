@@ -1,0 +1,5 @@
+C:\Projects\NCapas\NCapasProjects\capaEntidad\bin\Debug\capaEntidad.dll
+C:\Projects\NCapas\NCapasProjects\capaEntidad\bin\Debug\capaEntidad.pdb
+C:\Projects\NCapas\NCapasProjects\capaEntidad\obj\Debug\capaEntidad.csprojResolveAssemblyReference.cache
+C:\Projects\NCapas\NCapasProjects\capaEntidad\obj\Debug\capaEntidad.dll
+C:\Projects\NCapas\NCapasProjects\capaEntidad\obj\Debug\capaEntidad.pdb

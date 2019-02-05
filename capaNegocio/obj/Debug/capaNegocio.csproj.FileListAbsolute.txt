@@ -1,0 +1,9 @@
+C:\Projects\NCapas\NCapasProjects\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Projects\NCapas\NCapasProjects\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Projects\NCapas\NCapasProjects\capaNegocio\bin\Debug\capaDatos.dll
+C:\Projects\NCapas\NCapasProjects\capaNegocio\bin\Debug\capaEntidad.dll
+C:\Projects\NCapas\NCapasProjects\capaNegocio\bin\Debug\capaDatos.pdb
+C:\Projects\NCapas\NCapasProjects\capaNegocio\bin\Debug\capaEntidad.pdb
+C:\Projects\NCapas\NCapasProjects\capaNegocio\obj\Debug\capaNegocio.csprojResolveAssemblyReference.cache
+C:\Projects\NCapas\NCapasProjects\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Projects\NCapas\NCapasProjects\capaNegocio\obj\Debug\capaNegocio.pdb

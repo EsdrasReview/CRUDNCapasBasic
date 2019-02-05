@@ -1,0 +1,16 @@
+C:\Projects\NCapas\NCapasProjects\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Projects\NCapas\NCapasProjects\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Projects\NCapas\NCapasProjects\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Projects\NCapas\NCapasProjects\capaPresentacion\obj\Debug\capaPresentacion.csprojResolveAssemblyReference.cache
+C:\Projects\NCapas\NCapasProjects\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Projects\NCapas\NCapasProjects\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.Cache
+C:\Projects\NCapas\NCapasProjects\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Projects\NCapas\NCapasProjects\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Projects\NCapas\NCapasProjects\capaPresentacion\obj\Debug\capaPresentacion.P_Empleados.resources
+C:\Projects\NCapas\NCapasProjects\capaPresentacion\bin\Debug\capaEntidad.dll
+C:\Projects\NCapas\NCapasProjects\capaPresentacion\bin\Debug\capaNegocio.dll
+C:\Projects\NCapas\NCapasProjects\capaPresentacion\bin\Debug\capaDatos.dll
+C:\Projects\NCapas\NCapasProjects\capaPresentacion\bin\Debug\capaEntidad.pdb
+C:\Projects\NCapas\NCapasProjects\capaPresentacion\bin\Debug\capaNegocio.pdb
+C:\Projects\NCapas\NCapasProjects\capaPresentacion\bin\Debug\capaDatos.pdb
+C:\Projects\NCapas\NCapasProjects\capaPresentacion\obj\Debug\capaPresentacion.P_Mantenimiento.resources
